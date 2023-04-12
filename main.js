@@ -16,9 +16,7 @@ export default{
                 secondBtn: 'Pet Services'
             },  
             left:{},
-            right:{
-                scroll:'Scroll Down',
-                img:'img/scroll.png'},
+            right:{},
         }
         
     },
