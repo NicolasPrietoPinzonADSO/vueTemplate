@@ -11,4 +11,4 @@ app.component(mySection.name, mySection)
 app.component(myColLeft.name, myColLeft)
 app.component(myColRight.name, myColRight)
 
-app.mount("#app")
+app.mount("#app");
